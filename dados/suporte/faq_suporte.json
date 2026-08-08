@@ -1,0 +1,22 @@
+[
+  {
+    "categoria": "Curadoria e Qualidade",
+    "pergunta": "Quais são os critérios para aprovar o cadastro de uma peça de roupa na plataforma?",
+    "resposta": "Por atuarmos no segmento de moda circular, aceitamos peças em excelente estado de conservação, sem rasgos, manchas ou odores. Peças vintage, de alfaiataria de cintura alta e tecidos duráveis têm prioridade na curadoria. Itens de marcas fast-fashion passam por uma triagem mais rigorosa de qualidade."
+  },
+  {
+    "categoria": "Taxas e Comissões",
+    "pergunta": "Qual é a taxa cobrada dos brechós e vendedores parceiros?",
+    "resposta": "A WeNove retém uma comissão padrão de 15% sobre o valor final de cada peça vendida. Esse valor cobre os custos de manutenção da plataforma, ações de marketing digital e taxas do gateway de pagamento."
+  },
+  {
+    "categoria": "Logística e Devoluções",
+    "pergunta": "Como funciona o processo de devolução caso a peça não sirva?",
+    "resposta": "O comprador tem até 7 dias corridos após o recebimento para solicitar a devolução diretamente pelo painel do usuário. A WeNove gera um código de logística reversa gratuito para a primeira devolução do cliente no mês."
+  },
+  {
+    "categoria": "Repasses Financeiros",
+    "pergunta": "Em quanto tempo o vendedor recebe o dinheiro da venda?",
+    "resposta": "O repasse é liberado na carteira digital do vendedor 48 horas após a confirmação de entrega do pedido ao comprador, desde que não haja abertura de chamado de devolução."
+  }
+]

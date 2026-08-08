@@ -1,0 +1,9 @@
+Categoria,Condicao_Aceita,Taxa_Comissao_WeNove,Taxa_Logistica_Fixa,Tempo_Maximo_Vitrine_Dias
+Alfaiataria,Excelente,12%,R$ 5.00,90
+Streetwear,Excelente/Bom,15%,R$ 5.00,60
+Moda Festa,Excelente,10%,R$ 10.00,120
+Fast Fashion,Novo com Etiqueta,20%,R$ 5.00,30
+Acessorios,Excelente/Bom,15%,R$ 3.00,90
+Calçados,Excelente,12%,R$ 8.00,60
+Upcycling,Transformado/Unico,10%,R$ 5.00,120
+Vintage,Excelente/Bom,12%,R$ 5.00,90
