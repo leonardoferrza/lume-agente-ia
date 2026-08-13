@@ -1,0 +1,13 @@
+# Ignorar arquivos de ambiente virtual
+venv/
+.venv/
+
+# Ignorar chaves e senhas
+.env
+
+# Ignorar o banco de dados local (ele é gerado automaticamente pelo indexador)
+db/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
