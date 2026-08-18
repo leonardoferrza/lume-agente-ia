@@ -81,24 +81,6 @@ A interface foi desenvolvida buscando manter a identidade visual da WeNove, incl
 
 ---
 
-## 🖥️ Capturas de Tela
-
-### 1. Interface e Interação Inicial
-
-![Interface inicial](COLE_O_LINK_DA_IMAGEM_AQUI)
-
-### 2. Menus de Áudio e Upload
-
-![Menus de áudio e upload](COLE_O_LINK_DA_IMAGEM_AQUI)
-
-### 3. Resposta Contextualizada
-
-![Resposta contextualizada](COLE_O_LINK_DA_IMAGEM_AQUI)
-
-> 💡 Substitua os placeholders acima pelos links das imagens hospedadas no próprio GitHub ou em outro serviço de armazenamento.
-
----
-
 ## 💬 Exemplos de Interação
 
 ### 📚 Consulta às Regras de Curadoria
@@ -411,7 +393,7 @@ O projeto explora conceitos de:
 
 ## 👨‍💻 Autor
 
-**Leonardo Ferreira Souza**
+**Leonardo Ferrza**
 
 Estudante de **Engenharia de Software** e desenvolvedor do projeto Lume.
 
